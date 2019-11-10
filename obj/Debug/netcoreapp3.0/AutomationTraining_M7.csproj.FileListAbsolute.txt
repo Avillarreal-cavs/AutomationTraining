@@ -1,0 +1,11 @@
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\bin\Debug\netcoreapp3.0\AutomationTraining_M7.exe
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\bin\Debug\netcoreapp3.0\AutomationTraining_M7.deps.json
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\bin\Debug\netcoreapp3.0\AutomationTraining_M7.runtimeconfig.json
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\bin\Debug\netcoreapp3.0\AutomationTraining_M7.runtimeconfig.dev.json
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\bin\Debug\netcoreapp3.0\AutomationTraining_M7.dll
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\bin\Debug\netcoreapp3.0\AutomationTraining_M7.pdb
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\obj\Debug\netcoreapp3.0\AutomationTraining_M7.csprojAssemblyReference.cache
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\obj\Debug\netcoreapp3.0\AutomationTraining_M7.AssemblyInfoInputs.cache
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\obj\Debug\netcoreapp3.0\AutomationTraining_M7.AssemblyInfo.cs
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\obj\Debug\netcoreapp3.0\AutomationTraining_M7.dll
+C:\Users\CesarAlejandroVillar\source\repos\AutomationTraining_M7\AutomationTraining_M7\obj\Debug\netcoreapp3.0\AutomationTraining_M7.pdb
